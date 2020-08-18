@@ -1,2 +1,9 @@
 # SpatialNetworkAnalysis
-SpatialNetworkAnalysis tools related to Frontiers in Neuroscience paper
+
+Tools for network analysis of spatial networks.
+
+Relevant to the paper in Frontiers in Neuroscience ...
+
+More coming soon !
+
+
