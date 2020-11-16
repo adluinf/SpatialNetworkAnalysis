@@ -1,11 +1,13 @@
 # SpatialNetworkAnalysis
 
-Tools for network analysis of spatial networks.
-
-Relevant to the paper in Frontiers in Neuroscience ...
+Tools for network analysis of spatial networks used on the simualtions
+described in [1].
 
 More coming soon !
 
+## Scripts:
+
+TODO: describe the scripts
 
 ## References:
 
@@ -16,3 +18,4 @@ Impact of Physical Obstacles on the Structural and Effective Connectivity of in 
 Front. Comput. Neurosci., 31 August 2020 | https://doi.org/10.3389/fncom.2020.00077
 
 https://www.frontiersin.org/articles/10.3389/fncom.2020.00077/full
+
